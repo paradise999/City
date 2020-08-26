@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 80e94623488985b4e90dd6351b3ab263
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -6549789744089776721
+    second: Cube.001|Cylinder_Cylinder.002Action
+  - first:
+      74: -5818814618076807603
+    second: Cube.001|Cylinder_Cylinder.002Action.001
+  - first:
+      74: -7946416203080845795
+    second: Cube.001|Cylinder_Cylinder.002Action.002
+  - first:
+      74: -1734463112280608116
+    second: Cube.001|Cylinder_Cylinder.002Action.003
+  - first:
+      74: 5409018637544464718
+    second: Cylinder_Cylinder.002|Cylinder_Cylinder.002Action
+  - first:
+      74: -1343904921038424299
+    second: Cylinder_Cylinder.002|Cylinder_Cylinder.002Action.001
+  - first:
+      74: -8657219435070180421
+    second: Cylinder_Cylinder.002|Cylinder_Cylinder.002Action.002
+  - first:
+      74: -2592659169377004277
+    second: Cylinder_Cylinder.002|Cylinder_Cylinder.002Action.003
+  - first:
+      74: -2791288119897800188
+    second: Cylinder_Cylinder.000|Cylinder_Cylinder.002Action
+  - first:
+      74: -5310592284721105625
+    second: Cylinder_Cylinder.000|Cylinder_Cylinder.002Action.001
+  - first:
+      74: 3672691862002269803
+    second: Cylinder_Cylinder.000|Cylinder_Cylinder.002Action.002
+  - first:
+      74: -4546503546557563174
+    second: Cylinder_Cylinder.000|Cylinder_Cylinder.002Action.003
+  - first:
+      74: -7607857043332014817
+    second: Cylinder_Cylinder.003|Cylinder_Cylinder.002Action
+  - first:
+      74: 5692943794642810898
+    second: Cylinder_Cylinder.003|Cylinder_Cylinder.002Action.001
+  - first:
+      74: -8716849863360898921
+    second: Cylinder_Cylinder.003|Cylinder_Cylinder.002Action.002
+  - first:
+      74: 3701888710318845311
+    second: Cylinder_Cylinder.003|Cylinder_Cylinder.002Action.003
+  - first:
+      74: 5998494948773483713
+    second: Cylinder_Cylinder.001|Cylinder_Cylinder.002Action
+  - first:
+      74: -5578553979024025317
+    second: Cylinder_Cylinder.001|Cylinder_Cylinder.002Action.001
+  - first:
+      74: 9000342590045886584
+    second: Cylinder_Cylinder.001|Cylinder_Cylinder.002Action.002
+  - first:
+      74: 2731290600229392996
+    second: Cylinder_Cylinder.001|Cylinder_Cylinder.002Action.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: d17ff1be95b877447a42c4b3e3b15e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: cd7e4ffca249a064bba7bfedff1fc8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 845e20b1ea9586b4bbb0279ba1a24507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 0153f2f73f2fa8c42b1f41a44d4902df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 5ebe81641a324a64b8b5b128446fe086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 401a064217d0285408efb421dea71ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 5ebe81641a324a64b8b5b128446fe086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 91f259c8dbeac0047badcead8798208f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: b422b6c2c4374ff4aa989b9e62a32485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 18e395053826dd54a984d246bc2c740a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
